@@ -6,6 +6,7 @@ correct the LPSs (calibration factors derived from LExA validation BCC Rounds 4-
 The future LExA analysis pipeline can be based on this script
 
 Author: Shujun Huang
+
 Date: 2021-12-12
 
 ## Overview of the script tasks
@@ -31,3 +32,5 @@ Date: 2021-12-12
   - for cHL Risk  (RHL30 LPS ~ LExA LPS): y = 1.004x + 0.231
 - Step 4: Perform the classification using the corrected LPS scores
   - high risk vs low risk (10.4 as the cutoff from the RHL30 paper)
+
+Please direct questions to: jbridgers [at] bcgsc [dot] ca
