@@ -13,17 +13,15 @@ The LExA120 NanoString combined panel is an optimization of the RHL30 and DLBCL9
 * **Maintainer**: Joshua Bridgers 
 * **Prinicple Invesitigator (Lab)**: Dr. Aly Karsan ([Karsan Lab](https://www.bcgsc.ca/labs/karsan-lab))
 
-
 ## Project Structure
 ```
 |
-├─ cache # Temporary files generated my repo
-├─ data # Data generated my repo
-├─ plots # Plots generated my repo
+├─ cache # Temporary files generated the repo
+├─ data # Data generated the repo
+├─ plots # Plots generated the repo
 ├─ README.md
 ├─ reports # Contains R and R markdown scripts
-├─ resources # Contains DLBCL90 R package
-└─ results # Results generated my repo
+└─ results # Results generated the repo
 ```
 
 ## Citing LExA120
