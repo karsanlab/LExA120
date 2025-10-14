@@ -25,7 +25,7 @@ The LExA120 NanoString combined panel is an optimization of the RHL30 and DLBCL9
 ```
 
 ## Citing LExA120
-Peter J.B. Sabatini, Josh Bridgers, Shujun Huang, Tong Zhang, Clare Sheen, Tracy Stockley, Robert Kridel, Ian Bosdet, Marco A. Marra, Christian Steidl, David W. Scott, Aly Karsan. Validation of a Modular Gene Expression Assay for Risk Stratification and Subtyping Lymphomas. (In revision).
+Sabatini PJB, Bridgers J, Huang S, Zhang T, Sheen C, Stockley T, Kridel R, Bosdet I, Marra MA, Steidl C, Scott DW, Karsan A. Validation of a Modular Gene Expression Assay for Risk Stratification and Subtyping Lymphomas. J Mol Diagn. 2025 Oct 10:S1525-1578(25)00239-9. doi: 10.1016/j.jmoldx.2025.09.004. PMID: 41077189.
 
 ## License
 MIT License (see https://opensource.org/licenses/MIT)
